@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/09/27 03:10:36.000.461,=C:\Users\Menway\Documents\RAD Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2012/09/27 03:10:37.000.845,=C:\Users\Menway\Documents\RAD Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2012/09/27 03:14:17.000.391,=C:\Users\Menway\Documents\RAD Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2012/09/27 03:14:17.000.282,=C:\Users\Menway\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2012/09/27 03:28:39.000.996,=C:\Users\Menway\Documents\RAD Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2012/09/27 03:28:39.000.900,=C:\Users\Menway\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2012/09/27 03:28:47.000.520,=C:\Users\Menway\Documents\RAD Studio\Projects\ItemDetail1.pas</Transaction>
+    <Transaction>2012/09/27 03:28:47.000.430,=C:\Users\Menway\Documents\RAD Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2012/09/29 02:21:54.000.383,=C:\Users\Menway\Documents\RAD Studio\Projects\GridView1.pas</Transaction>
+    <Transaction>2012/09/29 02:21:54.000.622,=C:\Users\Menway\Documents\RAD Studio\Projects\DetailView1.pas</Transaction>
+    <Transaction>2013/01/23 14:43:55.000.222,=D:\Documents\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/02 20:59:28.000.116,=D:\Documents\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/02 21:01:50.000.040,D:\Projects\MonitorPowerOff\UnitMain.pas=D:\Documents\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/02/02 21:01:50.000.040,D:\Projects\MonitorPowerOff\UnitMain.dfm=D:\Documents\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/02/02 21:02:03.000.521,D:\Projects\MonitorPowerOff\MonitorOff.dproj=D:\Documents\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
