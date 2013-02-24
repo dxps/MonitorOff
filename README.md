@@ -3,6 +3,9 @@ This handy tool was designed to turn off your monitor immediately.
 Create a shortcut on your desktop and set a hotkey (e.g. Ctrl+`).
 Save your monitor's physical power button from today.
 
+## Update
+2013-02-24 Added 5 seconds countdown function.
+
 ## How It Works
 ```
 SendMessage(Application.Handle, WM_SYSCOMMAND, SC_MONITORPOWER, 2);
@@ -21,6 +24,9 @@ MIT
 这个小工具运行后会立即关闭你的显示器。
 在桌面创建一个快捷方式并设置一个快捷键（比如Ctrl+`）。
 从今天开始解放你的显示器的物理电源键吧。
+
+## 更新
+2013-02-24 增加5秒钟倒计时功能。
 
 ## 工作原理：
 ```
